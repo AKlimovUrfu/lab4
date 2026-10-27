@@ -1,0 +1,23 @@
+{
+    "RandomForest": {
+        "roc_auc": 0.8335,
+        "accuracy": 0.765,
+        "precision": 0.7627,
+        "recall": 0.9643,
+        "f1": 0.8517
+    },
+    "GradientBoosting": {
+        "roc_auc": 0.8198,
+        "accuracy": 0.79,
+        "precision": 0.8267,
+        "recall": 0.8857,
+        "f1": 0.8552
+    },
+    "MLPClassifier": {
+        "roc_auc": 0.8183,
+        "accuracy": 0.805,
+        "precision": 0.8258,
+        "recall": 0.9143,
+        "f1": 0.8678
+    }
+}
